@@ -6,7 +6,7 @@ For the client side is pretty much required transpiling the javaScript (ES6 to E
 
 ### Consider Import, Exports modules of ES6
 
-There is no JavaScript engine yet that support natively ES6 modules not even v8 engine for crome and node.js. So currently we are unable to use the *import, export* module directly in node.js without using any transpiler (like: babel). instead of *import, export* we can use **require() and module.exports **. Most of other features of ES6 can use without transpiler in Node.js.
+There is no JavaScript engine yet that support natively ES6 modules not even v8 engine for crome and node.js. So currently we are unable to use the *import, export* module directly in node.js without using any transpiler (like: babel). instead of *import, export* we can use **require() and module.exports**. Most of other features of ES6 can use without transpiler in Node.js.
 
 ## Technologies
 

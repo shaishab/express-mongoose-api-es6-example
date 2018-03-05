@@ -15,6 +15,7 @@ This project using together the following technologies:
 * [Node.js](https://nodejs.org/en/)
 * [Express](http://expressjs.com)
 * [Mongoose](https://github.com/Automattic/mongoose)
+* [glob](https://github.com/isaacs/node-glob) Match files using the patterns. ( used in express.js file. function name: initServerRoutes)to automatically load all routes from routes directory.
 * [Lodash](https://github.com/lodash/lodash)
 * [helmet](https://github.com/helmetjs/helmet) To helps secure Express apps by setting various HTTP headers.
 * [cors](https://github.com/expressjs/cors) For CORS support 

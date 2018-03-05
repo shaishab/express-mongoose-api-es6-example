@@ -12,7 +12,11 @@
     "express",
     "mongoose",
     "es6",
-    "node.js"
+    "node.js",
+    "bluebird",
+    "mongodb",
+    "starter",
+    "boilerplate"
   ],
   "author": "Shaishab Roy <shaishab.cse@gmail.com>",
   "repository": {
